@@ -1,3 +1,7 @@
+// Algorithms
+// Merge Sort
+// author: Nurbek Sakiev
+
 def mergeSort(list_):
 	if (len(list_) <= 1):
 		return list_
